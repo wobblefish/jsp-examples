@@ -1,0 +1,14 @@
+body{
+	background-color: 66CCFF;
+}
+
+select
+{
+width: 170;
+}
+
+fieldset
+{
+text-align:right;
+width:340;
+}
